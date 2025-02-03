@@ -18,28 +18,6 @@ function f(n)
     return facteurs
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 function g(n)
     facteurs = []
     i = 2
